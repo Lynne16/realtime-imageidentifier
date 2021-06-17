@@ -1,0 +1,48 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    padding-bottom: 10px;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div{
+    color: black;
+    float: none;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div2{
+    font-size: 20px;
+}
+
+.result_para_tag{
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 16px;
+}
+
+.accu_para_tag{
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 16px;
+}
+
+.footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    font-size: 15px;
+    width: 100%;
+    line-height: 1;
+    color: white;
+    background-color: rgb(37, 33, 33);
+}
+
+canvas{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
